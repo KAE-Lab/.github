@@ -10,5 +10,5 @@ The goal is to stay pragmatic: focusing on clean logic and diving into whatever 
 
 ### $\color{#E8D7D0}{\text{The Team}}$
 
-* **Kylian**: [@kln-mltre](https://github.com/kln-mlt)
+* **Kylian**: [@kln-mltre](https://github.com/kln-mltre)
 * **Illumye**: [@Illumye](https://github.com/Illumye)
