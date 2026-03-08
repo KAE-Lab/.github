@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=E8D7D0&vCenter=true&width=700&lines=Welcome+to+KAE+Lab." alt="KAE Lab Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=4000&color=E8D7D0&vCenter=true&width=700&lines=Welcome+to+KAE+Lab." alt="KAE Lab Typing" />
 
 KAE Lab is an experimental space for code and software architecture. We don't limit ourselves to a specific stack or field; we just build tools that make sense by looking at problems from a slightly different angle.
 
@@ -10,5 +10,5 @@ The goal is to stay pragmatic: focusing on clean logic and diving into whatever 
 
 ### $\color{#E8D7D0}{\text{The Team}}$
 
-* **Kylian**: [@kln-mlt](https://github.com/kln-mlt)
+* **Kylian**: [@kln-mltre](https://github.com/kln-mlt)
 * **Illumye**: [@Illumye](https://github.com/Illumye)
