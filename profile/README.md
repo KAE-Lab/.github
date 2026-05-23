@@ -6,7 +6,7 @@ The goal is to stay pragmatic: focusing on clean logic and diving into whatever 
 
 ### $\color{#E8D7D0}{\text{Active Projects}}$
 
-* **UKit Bordeaux (Fork)**: Taking over and evolving the student companion app with a focus on performance and reliability.
+* **UKit Bordeaux**: Taking over and evolving the student companion app with a focus on performance and reliability.
 
 ### $\color{#E8D7D0}{\text{The Team}}$
 
